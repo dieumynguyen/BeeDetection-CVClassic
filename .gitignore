@@ -1,0 +1,10 @@
+.DS_Store
+*.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
+
+src_data/
+processed_vids/
+processed_imgs/
+predict_results/
