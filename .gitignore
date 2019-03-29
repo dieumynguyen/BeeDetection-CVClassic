@@ -8,3 +8,6 @@ src_data/
 processed_vids/
 processed_imgs/
 predict_results/
+
+*.mp4
+**/.mp4
